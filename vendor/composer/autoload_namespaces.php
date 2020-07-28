@@ -7,9 +7,4 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'litle\\sdk' => array($baseDir . '/'),
-    'System' => array($vendorDir . '/phpseclib/phpseclib/phpseclib'),
-    'Net' => array($vendorDir . '/phpseclib/phpseclib/phpseclib'),
-    'Math' => array($vendorDir . '/phpseclib/phpseclib/phpseclib'),
-    'File' => array($vendorDir . '/phpseclib/phpseclib/phpseclib'),
-    'Crypt' => array($vendorDir . '/phpseclib/phpseclib/phpseclib'),
 );
